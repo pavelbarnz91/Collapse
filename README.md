@@ -1,1 +1,1 @@
-[![Project test & build](https://github.com/pavelbarnz91/Collapse/actions/workflows/main.yml/badge.svg?branch=master&event=page_build)](https://github.com/pavelbarnz91/Collapse/actions/workflows/main.yml)
+[![Project test & build](https://github.com/pavelbarnz91/Collapse/actions/workflows/main.yml/badge.svg)](https://github.com/pavelbarnz91/Collapse/actions/workflows/main.yml)
