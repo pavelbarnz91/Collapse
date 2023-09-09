@@ -1,0 +1,1 @@
+[![Project test & build](https://github.com/pavelbarnz91/Collapse/actions/workflows/main.yml/badge.svg?branch=gh-pages&event=page_build)](https://github.com/pavelbarnz91/Collapse/actions/workflows/main.yml)
